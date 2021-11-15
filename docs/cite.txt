@@ -1,0 +1,6 @@
+@inproceedings{acuna2021towards,
+    title={Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation},
+    author={David Acuna and Jonah Philion and Sanja Fidler},
+    booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+    year={2021},
+}
